@@ -1,3 +1,3 @@
-module github.com/modern-go/reflect2
+module github.com/Hunted-Labs/reflect2
 
 go 1.12
